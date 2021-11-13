@@ -11,6 +11,8 @@ recommendation for thing, also the user can put in a company to see data on it.
 
 .
 
+need an api for validation for stock data
+
 Feature 1: Overall positivity/negativity regarding stock market from tweets
 
 Feature 2: Volatility https://www.investopedia.com/ask/answers/021015/what-best-measure-given-stocks-volatility.asp
