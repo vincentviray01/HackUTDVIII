@@ -5,6 +5,9 @@ November 13-14 HackUTD
 Goldman sachs:
 
 sentiment analsysis with twitter and regerssion fit to trends or soemthign
+
+recommendation for thing, also the user can put in a company to see data on it.
+
 social credit score.
 
 
